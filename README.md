@@ -1,6 +1,6 @@
 <h1>Assignment of recreating a website</h1>
 <h3>I was given a assignment of recreating a website's landing page. They provided me a figma file and observing that i had to make the page using html,css and javascript</h3>
-<h3>I was asked to manke changes and add my own creativity and ideas</h3>
+<h3>I was asked to make changes and add my own creativity and ideas</h3>
 <h4>Screenshot of the page:</h4>
 
 ![Screenshot 2025-05-22 110717](https://github.com/user-attachments/assets/d59b5778-78b7-4bbf-8d4d-c68c42fac064)
